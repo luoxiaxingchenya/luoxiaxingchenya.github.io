@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## 欢迎来到迷幻投票
+##
 
-You can use the [editor on GitHub](https://github.com/luoxiaxingchenya/luoxiaxingchenya.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+请 [登陆B站/youtube账号](https://luoxiaxingchenya.github.io/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
